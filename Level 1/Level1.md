@@ -8,4 +8,4 @@
 
 - [PR링크](https://github.com/woowacourse/java-calculator/pull/16)
 
-- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/)
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B2%BD%EC%A3%BC.md)
