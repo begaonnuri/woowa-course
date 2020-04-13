@@ -6,6 +6,24 @@
 
 ## 자동차 경주
 
-- [PR링크](https://github.com/woowacourse/java-calculator/pull/16)
+- [PR링크](https://github.com/woowacourse/java-racingcar/pull/107)
 
 - [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B2%BD%EC%A3%BC.md)
+
+## 로또
+
+- [PR링크](https://github.com/woowacourse/java-lotto/pull/184)
+
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
+
+## 블랙잭
+
+- [PR링크](https://github.com/woowacourse/java-blackjack/pull/108)
+
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
+
+## 체스
+
+- [PR링크](https://github.com/woowacourse/java-calculator/pull/16)
+
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
