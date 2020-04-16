@@ -1,3 +1,7 @@
+## 글쓰기 미션
+
+- [PR링크](https://github.com/woowacourse/woowa-writing-2/pull/8)
+
 ## 문자열 계산기
 
 - [PR링크](https://github.com/woowacourse/java-calculator/pull/16)
@@ -14,16 +18,16 @@
 
 - [PR링크](https://github.com/woowacourse/java-lotto/pull/184)
 
-- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/%EB%A1%9C%EB%98%90.md)
 
 ## 블랙잭
 
 - [PR링크](https://github.com/woowacourse/java-blackjack/pull/108)
 
-- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/%EB%B8%94%EB%9E%99%EC%9E%AD.md)
 
 ## 체스
 
-- [PR링크](https://github.com/woowacourse/java-calculator/pull/16)
+- [PR링크](https://github.com/woowacourse/java-chess/pull/157)
 
-- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201)
+- [회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%201/%EC%B2%B4%EC%8A%A4.md)
