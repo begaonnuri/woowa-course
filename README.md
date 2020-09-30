@@ -134,3 +134,23 @@
 ### 진행 미션
 
 진행중
+
+<br/>
+
+---
+
+<br/>
+
+## 글쓰기 미션
+
+### 진행 미션
+|Level|Topic|Link|Pull Request|
+|-|-|-|-|
+|1|우아한테크코스 한 달 생활기|[Level 1. 기록](https://github.com/begaonnuri/woowa-writing-2/blob/master/Level1_Record.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/8)|
+|2|우테코에서 찾은 나만의 효과적인 공부법|[Level 2. 성장](https://github.com/begaonnuri/woowa-writing-2/blob/master/Level2_Growth.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/81)|
+|3|팀 프로젝트가 나에게 남긴 것|[Level 3. 회고](https://github.com/begaonnuri/woowa-writing-2/blob/master/Level3_Remind.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/159)|
+|4|미진행|미진행|미진행|
+
+## 테코톡
+
+미진행
