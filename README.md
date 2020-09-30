@@ -151,6 +151,12 @@
 |3|팀 프로젝트가 나에게 남긴 것|[Level 3. 회고](https://github.com/begaonnuri/woowa-writing-2/blob/master/Level3_Remind.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/159)|
 |4|미진행|미진행|미진행|
 
+<br/>
+
+---
+
+<br/>
+
 ## 테코톡
 
 미진행
