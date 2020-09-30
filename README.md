@@ -97,7 +97,15 @@
 
 ### 진행 미션
 
-미진행
+|미션|Repository|회고와 피드백|
+|---|---|---|
+|팀 프로젝트|[2020-seller-lee-company](https://github.com/woowacourse-teams/2020-seller-lee-company)|[회고와 피드백](https://github.com/begaonnuri/woowa-course/blob/master/Level%203/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%9A%8C%EA%B3%A0.md)|
+
+
+### 프로젝트 소개
+- [애플리케이션](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
+- [프로젝트 소개 페이지](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
+- [기술 블로그](https://seller-lee.github.io/)
 
 <br/>
 
@@ -125,4 +133,4 @@
 
 ### 진행 미션
 
-미진행
+진행중
